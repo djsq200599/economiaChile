@@ -1,0 +1,40 @@
+.content-container {
+    text-align: center;
+    margin: 20px; /* Márgenes agregados */
+  }
+  
+  .centered-text {
+    text-align: center;
+    margin: 10px 0;
+  }
+  
+  .technology-icons-horizontal {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .technology-icons-horizontal li {
+    margin: 5px;
+  }
+  
+  .social-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .social-links li {
+    margin: 5px;
+  }
+  
+  .social-links ion-icon {
+    margin-right: 5px;
+  }
+  a {
+    text-decoration: none; /* Elimina el subrayado */
+  }

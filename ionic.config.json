@@ -1,0 +1,7 @@
+{
+  "name": "economiaChile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,16 @@
+a {
+    text-decoration: none; /* Elimina el subrayado */
+  }
+  /* Centrar el ion-spinner en el contenedor */
+  .breathing-icon {
+    animation: breathe 1s infinite ease-in-out;
+  }
+  
+  @keyframes breathe {
+    0%, 100% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.2);
+    }
+  }
